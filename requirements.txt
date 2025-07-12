@@ -1,0 +1,6 @@
+numpy==1.24.4
+Faker==25.2.0
+tqdm==4.66.4
+babel==2.14.0
+matplotlib==3.8.4
+tensorflow==2.15.0
